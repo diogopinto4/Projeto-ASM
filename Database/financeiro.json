@@ -1,0 +1,81 @@
+[
+  {
+    "estudante_id": 202301,
+    "saldo": 0.0,
+    "isento_taxas": false,
+    "historico_pagamentos": [
+      {
+        "data": "2026-01-01T09:18:44",
+        "valor": 120.0,
+        "tipo": "Propina Setembro"
+      }
+    ]
+  },
+  {
+    "estudante_id": 202302,
+    "saldo": 30.0,
+    "isento_taxas": false,
+    "historico_pagamentos": [
+      {
+        "data": "2026-01-13T00:43:09",
+        "valor": 220.0,
+        "tipo": "Pagamento dívida (simulado)"
+      },
+      {
+        "data": "2026-01-13T00:43:18",
+        "valor": 35.0,
+        "tipo": "Pagamento dívida (simulado)"
+      },
+      {
+        "data": "2026-01-13T00:49:36",
+        "valor": 25.0,
+        "tipo": "Pagamento dívida (simulado)"
+      }
+    ]
+  },
+  {
+    "estudante_id": 12,
+    "saldo": 20.0,
+    "isento_taxas": false,
+    "historico_pagamentos": [
+      {
+        "data": "2025-12-01T10:00:00",
+        "valor": 50.0,
+        "tipo": "Inscrição"
+      },
+      {
+        "data": "2026-01-11T18:22:07",
+        "valor": 50.0,
+        "tipo": "Pagamento dívida (simulado)"
+      },
+      {
+        "data": "2026-01-11T22:36:51",
+        "valor": 20.0,
+        "tipo": "Pagamento dívida (simulado)"
+      }
+    ]
+  },
+  {
+    "estudante_id": 555,
+    "saldo": -1400.0,
+    "isento_taxas": false,
+    "historico_pagamentos": [
+      {
+        "data": "2026-01-14T20:16:00",
+        "valor": 50.0,
+        "tipo": "Pagamento dívida (simulado)"
+      },
+      {
+        "data": "2026-01-14T21:02:48",
+        "valor": 50.0,
+        "tipo": "Pagamento dívida (simulado)"
+      }
+    ]
+  },
+  {
+    "estudante_id": 777,
+    "saldo": 0.0,
+    "isento_taxas": true,
+    "historico_pagamentos": []
+  }
+]
